@@ -12,7 +12,7 @@ print(type(word))
 print(type(is_sunny))
 
 # Change the values to the type shown in the comment
-age = "15"      # Change to int
+age = 15      # Change to int
 score = 10      # Change to str
 rain = "False"  # Change to bool
 height = "1.75" # Change to float
